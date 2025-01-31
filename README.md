@@ -54,7 +54,7 @@ Este projeto foi desenvolvido usando:
 
 Clique no botão abaixo para acessar:
 
-<a href="https://domisnnet.github.io/spotify/">
+<a href="https://domisnnet.github.io/spotify/" target="_blank" rel="noopener noreferrer">
    <img src="src/imagens/botão.webp" width="35px" height="35px" alt="Acessar">
 </a>   
 

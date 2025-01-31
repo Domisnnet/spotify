@@ -92,7 +92,7 @@ Contribuições são sempre bem-vindas! Se você deseja contribuir com este proj
 **Pergunta 3:** Como posso entrar em contato com o desenvolvedor?
 
    **Resposta:** Você pode entrar em contato através do perfil do GitHub: 
-    <a href="https://github.com/Domisnnet" style="margin-right: 10px;">
+    <a href="https://github.com/Domisnnet" style="margin-left: 10px;">
     <img src="src/imagens/DomisDev.png" width="25px" height="25px" alt="Acessar perfil GitHub">
 </a>
 

@@ -95,6 +95,7 @@ Contribuições são sempre bem-vindas! Se você deseja contribuir com este proj
 
 <a href="https://github.com/Domisnnet">
     <img src="src/imagens/DomisDev.png" width="60px" height="60px" alt="Acessar perfil GitHub">
+    DomisDev
 </a> 
 
 ---

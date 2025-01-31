@@ -93,9 +93,9 @@ Contribuições são sempre bem-vindas! Se você deseja contribuir com este proj
 
    **Resposta:** Você pode entrar em contato através do perfil do GitHub: 
 
-    <a href="https://github.com/Domisnnet" style="margin-left: 10px;">
+    <a href="https://github.com/Domisnnet">
         <img src="src/imagens/DomisDev.png" width="25px" height="25px" alt="Acessar perfil GitHub">
-    </a>
+    </a> 
 
 ---
 

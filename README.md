@@ -65,7 +65,7 @@ Para explorar o código-fonte e contribuir com o projeto, acesse:
 
 ## Créditos 📝
 
-*   **Desenvolvedor:** DomisDev
+*   **Desenvolvedor:** DomisDev.
 *   **Design:** Inspirado na interface do Spotify, em uma versão mais antiga.
 *   **Bibliotecas:** Bootstrap para estilos e componentes responsivos, Font Awesome para ícones.
 

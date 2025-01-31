@@ -53,10 +53,9 @@ Este projeto foi desenvolvido usando:
 ## Como Usar 🚀
 Clique no botão abaixo para acessar:
 
-    <a href="https://domisnnet.github.io/spotify/">
-        <img src="src/imagens/botão.webp" width="35px" height="35px" alt="Acesse">
-    </a>
-
+ <a href="https://domisnnet.github.io/spotify/">
+   <img src="src/imagens/botão.webp" width="35px" height="35px" alt="Acessar">
+ </a>   
 
 ## Código Fonte 💻
 
@@ -92,7 +91,7 @@ Contribuições são sempre bem-vindas! Se você deseja contribuir com este proj
 
 **Pergunta 3:** Como posso entrar em contato com o desenvolvedor?
 
-   **Resposta:** Você pode entrar em contato através do perfil do GitHub ([DomisDev](https://github.com/domisnnet)).
+   **Resposta:** Você pode entrar em contato através do perfil do GitHub: [DomisDev](https://github.com/domisnnet).
 
 ---
 

@@ -49,7 +49,8 @@ nav.navbar-transparente {
 	-moz-border-radius: 500px;
 	text-transform: uppercase;
 	transition: background 0.4s, color 0.4s;
-	padding: 10px 20px;
+	padding: 20px;
+	margin: 15px;
 }
 
 .btn-roxo {
@@ -71,7 +72,7 @@ nav.navbar-transparente {
 }
 
 .carousel-control-next, .carousel-control-prev {
-	width: 5%;
+	width: 10%;
 }
 
 .caixa {

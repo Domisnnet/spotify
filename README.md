@@ -3,11 +3,11 @@
 
 ![Spotify](./src/imagens/iMac-24-1120x630.png)
 
-Bem-vindo ao nosso projeto de clone do Spotify! Este projeto é uma recriação da interface do Spotify, focada em apresentar uma experiência de usuário similar, com layout responsivo e funcionalidades básicas.
+Bem-vindo ao nosso projeto do Spotify! Este projeto é uma recriação da interface do Spotify, focada em apresentar uma experiência de usuário similar, com layout responsivo e funcionalidades básicas.
 
 ## Sobre o Projeto 🎧
 
-Este projeto tem como objetivo recriar a interface do Spotify, utilizando HTML, CSS e JavaScript, com foco em responsividade e design. É um projeto ideal para praticar suas habilidades de desenvolvimento web e para entender melhor como funcionam aplicações web modernas.
+Este projeto tem como objetivo recriar a interface do Spotify, utilizando HTML, Bootstrap e Devicons, com foco em responsividade e design. É um projeto ideal para praticar suas habilidades de desenvolvimento web e para entender melhor como funcionam aplicações web modernas.
 
 O projeto apresenta:
 
@@ -66,7 +66,7 @@ Para explorar o código-fonte e contribuir com o projeto, acesse:
 
 ## Créditos 📝
 
-*   **Desenvolvedor:** <strong>DomisDev.</strong>
+*   **Desenvolvedor:** **DomisDev.**
 *   **Design:** Inspirado na interface do Spotify, em uma versão mais antiga.
 *   **Bibliotecas:** Bootstrap para estilos e componentes responsivos, Font Awesome para ícones.
 
